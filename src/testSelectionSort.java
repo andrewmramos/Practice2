@@ -14,7 +14,7 @@ public class testSelectionSort {
 	}
 	
 	public void testPositive(){
-		
+		// HEllO
 		SelectionSort sorter = new SelectionSort();
 		int[] arr = new int[5];
 		arr[0] = 8;
@@ -36,7 +36,7 @@ public class testSelectionSort {
 	}
 	
 	public void testNegative(){
-		/** Test data contains negative values only **/
+		// HEY
 		SelectionSort sorter = new SelectionSort();
 		int[] arr = new int[5];
 		arr[0] = -8;
