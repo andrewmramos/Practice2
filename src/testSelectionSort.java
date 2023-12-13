@@ -57,7 +57,7 @@ public class testSelectionSort {
 	}
 	
 	public void testMixed(){
-		/** Test data contains with both positive, negative and zeros **/
+		// COMMENT
 		SelectionSort sorter = new SelectionSort();
 		int[] arr = new int[5];
 		arr[0] = -8;
@@ -78,7 +78,7 @@ public class testSelectionSort {
 	}
 	
 	public void testDuplicates(){
-		/** Test data contains duplicates **/
+		// comment
 		SelectionSort sorter = new SelectionSort();
 		int[] arr = new int[5];
 		arr[0] = 8;
